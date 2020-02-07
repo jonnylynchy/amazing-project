@@ -1,0 +1,16 @@
+body {
+  background-color: gray;
+}
+h1 {
+  color: green;
+  font-size: 24px;
+}
+
+div {
+  background-color: orange;
+  border-radius: 10px;
+}
+
+p {
+  color: blue;
+}
